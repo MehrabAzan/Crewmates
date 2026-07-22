@@ -56,7 +56,7 @@ GIF created with ...
 
 ## Notes
 
-In the Supabase dashboard **Table Editor**, open the `crewmates` table and add a new text column named `category` (nullable is fine). Create/update forms store `Crewmate`, `Impostor`, or `Engineer` there; without that column, inserts/updates that include category will fail.
+Supabase was a pain to use. MySQL is better.
 
 ## License
 
